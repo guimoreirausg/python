@@ -1,0 +1,13 @@
+-tipos primitivos
+
+int(numeros inteiros)ex 12
+float(numeros flutuantes) ex 3.14
+bool(True ou False) ex verdadeiro
+str(objeto)ex ''
+
+- ordem de precedencia
+
+1 -- ()
+2 -- **
+3 -- *, /, //, %
+4 -- + e -
