@@ -1,4 +1,4 @@
-salario = float(input('Valor do salario: '))
+salario = float(input('Valor do salario: R$'))
 aumento = int(input('% de aumento: '))
 valorAumento = ((salario / 100) * aumento)
 attSalario = salario + valorAumento

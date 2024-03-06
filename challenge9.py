@@ -7,6 +7,6 @@ i = int(0)
 while i <= 10:
     multi = num * i
     # print(multi)
-    print('{} x {} = {}'.format(num, i , multi))
+    print('{} x {:2} = {}'.format(num, i , multi))
     # print(num, 'x', i, '=', num * i)
     i += 1

@@ -1,4 +1,4 @@
-produto = float(input('Valor do produto: '))
+produto = float(input('Valor do produto: R$'))
 desconto = 5
 novoPrecoProduto = produto - ((produto / 100) * 5)
 
